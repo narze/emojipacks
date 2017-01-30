@@ -112,3 +112,15 @@ emojis:
     src: http://cultofthepartyparrot.com/parrots/upvotepartyparrot.gif
   - name: partyparrot_witnessprotection
     src: http://cultofthepartyparrot.com/parrots/witnessprotectionparrot.gif
+  - name: partyparrot_twins
+    src: http://cultofthepartyparrot.com/parrots/twinsparrot.gif
+  - name: partyparrot_triplets
+    src: http://cultofthepartyparrot.com/parrots/tripletsparrot.gif
+  - name: partyparrot_stable
+    src: http://cultofthepartyparrot.com/parrots/stableparrot.gif
+  - name: partyparrot_shipit
+    src: http://cultofthepartyparrot.com/parrots/shipitparrot.gif
+  - name: partyparrot_ski
+    src: http://cultofthepartyparrot.com/parrots/skiparrot.gif
+  - name: partyparrot_halal
+    src: http://cultofthepartyparrot.com/parrots/halalparrot.gif
