@@ -1,0 +1,114 @@
+title: partyparrot-eventpop
+emojis:
+  - name: partyparrot_aussieconga
+    src: http://cultofthepartyparrot.com/parrots/aussiecongaparrot.gif
+  - name: partyparrot_aussie
+    src: http://cultofthepartyparrot.com/parrots/aussieparrot.gif
+  - name: partyparrot_aussiereverseconga
+    src: http://cultofthepartyparrot.com/parrots/aussiereversecongaparrot.gif
+  - name: partyparrot_blondesassy
+    src: http://cultofthepartyparrot.com/parrots/blondesassyparrot.gif
+  - name: partyparrot_blueclues
+    src: http://cultofthepartyparrot.com/parrots/bluecluesparrot.gif
+  - name: partyparrot_bored
+    src: http://cultofthepartyparrot.com/parrots/boredparrot.gif
+  - name: partyparrot_chill
+    src: http://cultofthepartyparrot.com/parrots/chillparrot.gif
+  - name: partyparrot_christmas
+    src: http://cultofthepartyparrot.com/parrots/christmasparrot.gif
+  - name: partyparrot_coffee
+    src: http://cultofthepartyparrot.com/parrots/coffeeparrot.gif
+  - name: partyparrot_confused
+    src: http://cultofthepartyparrot.com/parrots/confusedparrot.gif
+  - name: partyparrot_conga
+    src: http://cultofthepartyparrot.com/parrots/congaparrot.gif
+  - name: partyparrot_congaparty
+    src: http://cultofthepartyparrot.com/parrots/congapartyparrot.gif
+  - name: partyparrot_darkbeer
+    src: http://cultofthepartyparrot.com/parrots/darkbeerparrot.gif
+  - name: partyparrot_dealwithit
+    src: http://cultofthepartyparrot.com/parrots/dealwithitparrot.gif
+  - name: partyparrot_dreidel
+    src: http://cultofthepartyparrot.com/parrots/dreidelparrot.gif
+  - name: partyparrot_driedel
+    src: http://cultofthepartyparrot.com/parrots/driedelparrot.gif
+  - name: partyparrot_driedel2
+    src: http://cultofthepartyparrot.com/parrots/driedelparrot2.gif
+  - name: partyparrot_explody
+    src: http://cultofthepartyparrot.com/parrots/explodyparrot.gif
+  - name: partyparrot_fast
+    src: http://cultofthepartyparrot.com/parrots/fastparrot.gif
+  - name: partyparrot_fieri
+    src: http://cultofthepartyparrot.com/parrots/fieriparrot.gif
+  - name: partyparrot_fiesta
+    src: http://cultofthepartyparrot.com/parrots/fiestaparrot.gif
+  - name: partyparrot_gentleman
+    src: http://cultofthepartyparrot.com/parrots/gentlemanparrot.gif
+  - name: partyparrot_goth
+    src: http://cultofthepartyparrot.com/parrots/gothparrot.gif
+  - name: partyparrot_hamburger
+    src: http://cultofthepartyparrot.com/parrots/hamburgerparrot.gif
+  - name: partyparrot_harrypotter
+    src: http://cultofthepartyparrot.com/parrots/harrypotterparrot.gif
+  - name: partyparrot_icecream
+    src: http://cultofthepartyparrot.com/parrots/ice-cream-parrot.gif
+  - name: partyparrot_magarita
+    src: http://cultofthepartyparrot.com/parrots/magaritaparrot.gif
+  - name: partyparrot_middle
+    src: http://cultofthepartyparrot.com/parrots/middleparrot.gif
+  - name: partyparrot_moonwalking
+    src: http://cultofthepartyparrot.com/parrots/moonwalkingparrot.gif
+  - name: partyparrot_oldtimey
+    src: http://cultofthepartyparrot.com/parrots/oldtimeyparrot.gif
+  - name: partyparrot_orioles
+    src: http://cultofthepartyparrot.com/parrots/oriolesparrot.gif
+  - name: partyparrot
+    src: http://cultofthepartyparrot.com/parrots/parrot.gif
+  - name: partyparrot_beer
+    src: http://cultofthepartyparrot.com/parrots/parrotbeer.gif
+  - name: partyparrot_cop
+    src: http://cultofthepartyparrot.com/parrots/parrotcop.gif
+  - name: partyparrot_dad
+    src: http://cultofthepartyparrot.com/parrots/parrotdad.gif
+  - name: partyparrot_mustache
+    src: http://cultofthepartyparrot.com/parrots/parrotmustache.gif
+  - name: partyparrot_sleep
+    src: http://cultofthepartyparrot.com/parrots/parrotsleep.gif
+  - name: partyparrot_wave1
+    src: http://cultofthepartyparrot.com/parrots/parrotwave1.gif
+  - name: partyparrot_wave2
+    src: http://cultofthepartyparrot.com/parrots/parrotwave2.gif
+  - name: partyparrot_wave3
+    src: http://cultofthepartyparrot.com/parrots/parrotwave3.gif
+  - name: partyparrot_wave4
+    src: http://cultofthepartyparrot.com/parrots/parrotwave4.gif
+  - name: partyparrot_wave5
+    src: http://cultofthepartyparrot.com/parrots/parrotwave5.gif
+  - name: partyparrot_wave6
+    src: http://cultofthepartyparrot.com/parrots/parrotwave6.gif
+  - name: partyparrot_wave7
+    src: http://cultofthepartyparrot.com/parrots/parrotwave7.gif
+  - name: partyparrot_party
+    src: http://cultofthepartyparrot.com/parrots/partyparrot.gif
+  - name: partyparrot_pizza
+    src: http://cultofthepartyparrot.com/parrots/pizzaparrot.gif
+  - name: partyparrot_reverseconga
+    src: http://cultofthepartyparrot.com/parrots/reversecongaparrot.gif
+  - name: partyparrot_right
+    src: http://cultofthepartyparrot.com/parrots/rightparrot.gif
+  - name: partyparrot_sad
+    src: http://cultofthepartyparrot.com/parrots/sadparrot.gif
+  - name: partyparrot_sassy
+    src: http://cultofthepartyparrot.com/parrots/sassyparrot.gif
+  - name: partyparrot_shufflefurther
+    src: http://cultofthepartyparrot.com/parrots/shufflefurtherparrot.gif
+  - name: partyparrot_shuffle
+    src: http://cultofthepartyparrot.com/parrots/shuffleparrot.gif
+  - name: partyparrot_shuffleparty
+    src: http://cultofthepartyparrot.com/parrots/shufflepartyparrot.gif
+  - name: partyparrot_slow
+    src: http://cultofthepartyparrot.com/parrots/slowparrot.gif
+  - name: partyparrot_upvoteparty
+    src: http://cultofthepartyparrot.com/parrots/upvotepartyparrot.gif
+  - name: partyparrot_witnessprotection
+    src: http://cultofthepartyparrot.com/parrots/witnessprotectionparrot.gif
